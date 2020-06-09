@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="383348c6-6c56-4fb3-b00f-56780130996f">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>life_back.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2020-06-07T19:52:14</SaveDate>
+    <EditState>false</EditState>
+    <VisibleImage>false</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>false</VisibleGrid>
+    <VisibleProperty>false</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>214</ImgFileSize>
+    <ImgFileDate>2020/6/7 16:44:11</ImgFileDate>
+    <ImgPathName>life_back.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>0</X>
+      <Y>0</Y>
+    </Center>
+    <Width>200</Width>
+    <Height>30</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>200</Width>
+        <Height>30</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>200</Width>
+      <Height>30</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>200</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>200</X>
+        <Y>30</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>30</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>200</MaskWidth>
+    <MaskHeight>30</MaskHeight>
+    <Mask>F3AB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>

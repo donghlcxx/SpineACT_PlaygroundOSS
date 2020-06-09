@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="f13e7735-eb4a-4a04-8257-7ea3234692be">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>level_39.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2020-06-06T14:51:54</SaveDate>
+    <EditState>false</EditState>
+    <VisibleImage>false</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>false</VisibleGrid>
+    <VisibleProperty>false</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>1161940</ImgFileSize>
+    <ImgFileDate>2017/12/1 14:24:49</ImgFileDate>
+    <ImgPathName>level_39.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>0</X>
+      <Y>0</Y>
+    </Center>
+    <Width>1024</Width>
+    <Height>1024</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>1024</Width>
+        <Height>1024</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>1024</Width>
+      <Height>1024</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>1024</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>1024</X>
+        <Y>1024</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>1024</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>1024</MaskWidth>
+    <MaskHeight>1024</MaskHeight>
+    <Mask>//8B//8B//8B//8B//8B//8B//8B//8B//8B//8B//8B//8B//8B//8B//8B//8BABAB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>

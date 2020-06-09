@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KLBImageEditor_Plugin id="714b55d5-ce6c-4caa-b77d-f16e8925b8ad">
+  <ProjectPropertyModel>
+    <Version>0.2.0</Version>
+    <ProjectFile>spineboy.png.xml</ProjectFile>
+    <ProjectFileRelativeDir />
+    <SaveDate>2020-06-05T09:27:39</SaveDate>
+    <Comment />
+    <EditState>true</EditState>
+    <VisibleImage>true</VisibleImage>
+    <VisiblePolygon>false</VisiblePolygon>
+    <VisibleMask>false</VisibleMask>
+    <VisibleBoundBox>false</VisibleBoundBox>
+    <VisibleGrid>true</VisibleGrid>
+    <VisibleProperty>true</VisibleProperty>
+  </ProjectPropertyModel>
+  <ContainerPropertyModel />
+  <ImageModel>
+    <isAdditive>false</isAdditive>
+    <ImgFileSize>260801</ImgFileSize>
+    <ImgFileDate>2020/5/7 21:10:20</ImgFileDate>
+    <ImgPathName>spineboy.png</ImgPathName>
+    <PriorityOffset>0</PriorityOffset>
+    <ImageType>Default</ImageType>
+    <ImageTypeParams />
+    <VerticesClockwise>true</VerticesClockwise>
+    <Center>
+      <X>512</X>
+      <Y>128</Y>
+    </Center>
+    <Width>1024</Width>
+    <Height>256</Height>
+    <VertexPostProcessMode>0</VertexPostProcessMode>
+    <BoundingBox>
+      <Location>
+        <X>0</X>
+        <Y>0</Y>
+      </Location>
+      <Size>
+        <Width>1024</Width>
+        <Height>256</Height>
+      </Size>
+      <X>0</X>
+      <Y>0</Y>
+      <Width>1024</Width>
+      <Height>256</Height>
+    </BoundingBox>
+    <Vertices>
+      <PointF>
+        <X>0</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>1024</X>
+        <Y>0</Y>
+      </PointF>
+      <PointF>
+        <X>1024</X>
+        <Y>256</Y>
+      </PointF>
+      <PointF>
+        <X>0</X>
+        <Y>256</Y>
+      </PointF>
+    </Vertices>
+    <Indices>AAECAw==</Indices>
+    <ImgAlphaType>TYPE_ALPHA_8BIT</ImgAlphaType>
+    <MaskCompress>true</MaskCompress>
+    <MaskX>0</MaskX>
+    <MaskY>0</MaskY>
+    <MaskWidth>1024</MaskWidth>
+    <MaskHeight>256</MaskHeight>
+    <Mask>//8B//8B//8B//8BAAQB</Mask>
+  </ImageModel>
+</KLBImageEditor_Plugin>
