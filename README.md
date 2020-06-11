@@ -1,5 +1,5 @@
-                           Klab PlaygroundOSS集成Spine动画并生成ACT游戏
-						   ============================================
+                           #Klab PlaygroundOSS集成Spine动画并生成ACT游戏
+						   
 
  1、游戏玩法说明
  ---
