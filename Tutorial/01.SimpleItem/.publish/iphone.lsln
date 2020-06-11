@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlLuaSolutionDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents />
+  <DocumentGroups>
+    <DocumentRef FileName=".\iphoneLuaProject.luaproj" />
+  </DocumentGroups>
+  <DocumentFolders />
+  <ActiveProject FileName="D:\Temp\PlaygroundOSS-master\Tutorial\01.SimpleItem\.publish\iphoneLuaProject.luaproj" />
+  <Id>57cafbcb-f934-4edf-ac61-ff47dfd44ca2</Id>
+</XmlLuaSolutionDocument>

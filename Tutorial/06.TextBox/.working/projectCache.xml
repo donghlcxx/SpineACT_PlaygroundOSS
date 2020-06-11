@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ResourceWrapperCache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entries>
+    <Entry>
+      <resourcePath>start.lua</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <resourcePath>TextBox.lua</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+  </entries>
+</ResourceWrapperCache>

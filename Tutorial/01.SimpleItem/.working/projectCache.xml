@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ResourceWrapperCache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entries>
+    <Entry>
+      <resourcePath>start.lua</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>d33e3dcb-d881-4ecc-89e5-6d21c718548d</id>
+      <resourcePath>textureBoat.xml</resourcePath>
+      <resourceLastModified>2020-06-01T15:14:00.2142221+08:00</resourceLastModified>
+      <resourceFileSize>1429</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>d34f5343-974f-4f08-be1f-e47059b94531</id>
+      <resourcePath>itemimage.png</resourcePath>
+      <resourceLastModified>2020-05-07T21:10:20+08:00</resourceLastModified>
+      <resourceFileSize>402363</resourceFileSize>
+      <extraXmlLastModified>2020-06-01T15:12:31.8861701+08:00</extraXmlLastModified>
+      <extraXmlFileSize>2113</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <resourcePath>SimpleItem.lua</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+  </entries>
+</ResourceWrapperCache>

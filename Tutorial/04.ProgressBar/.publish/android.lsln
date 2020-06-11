@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlLuaSolutionDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents />
+  <DocumentGroups>
+    <DocumentRef FileName=".\androidLuaProject.luaproj" />
+  </DocumentGroups>
+  <DocumentFolders />
+  <ActiveProject FileName="D:\Temp\PlaygroundOSS-master\Tutorial\04.ProgressBar\.publish\androidLuaProject.luaproj" />
+  <Id>c8210869-faf8-47b6-bb97-4ee4f635b8b7</Id>
+</XmlLuaSolutionDocument>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ResourceWrapperCache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <entries>
+    <Entry>
+      <resourcePath>Progress.lua</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>6acd1e78-fefb-471b-bf2a-4a3bb2888f66</id>
+      <resourcePath>progress.xml</resourcePath>
+      <resourceLastModified>2020-05-28T18:12:47.3045764+08:00</resourceLastModified>
+      <resourceFileSize>1431</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <id>ed94cbd9-e1f9-4e26-8d0d-c563a31a4a4b</id>
+      <resourcePath>prog_h_full.png</resourcePath>
+      <resourceLastModified>2014-04-21T08:26:36+08:00</resourceLastModified>
+      <resourceFileSize>732</resourceFileSize>
+      <extraXmlLastModified>2014-04-21T08:26:36+08:00</extraXmlLastModified>
+      <extraXmlFileSize>1904</extraXmlFileSize>
+    </Entry>
+    <Entry>
+      <resourcePath>start.lua</resourcePath>
+      <resourceLastModified>0001-01-01T00:00:00</resourceLastModified>
+      <resourceFileSize>0</resourceFileSize>
+      <extraXmlLastModified>0001-01-01T00:00:00</extraXmlLastModified>
+      <extraXmlFileSize>0</extraXmlFileSize>
+    </Entry>
+  </entries>
+</ResourceWrapperCache>
