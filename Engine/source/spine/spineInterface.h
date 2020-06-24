@@ -33,6 +33,9 @@ namespace oxspine
 			animationStateData = 0;
 			delete atlas;
 			atlas = 0;
+
+			//uvs.clear();
+			//uvs.ensureCapacity();
 		}
 	protected:
 
@@ -46,7 +49,7 @@ namespace oxspine
 		spine::RegionAttachment* regionAttachment;
 		spine::MeshAttachment* mesh;
 		bool isRegion = true;
-		spine::Vector<float> uvs;
+		spine::Vector<float> *uvs;
 		CKLBImageAsset* pImgAsset;
 		float uOffset = 0;
 		float vOffset = 0;

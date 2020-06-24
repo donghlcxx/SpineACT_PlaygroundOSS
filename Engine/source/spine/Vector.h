@@ -202,7 +202,7 @@ private:
 	}
 
 	inline void deallocate(T *buffer) {
-		if (_buffer) {
+		if (_buffer>0) {
 			SpineExtension::free(buffer, __FILE__, __LINE__);
 		}
 	}

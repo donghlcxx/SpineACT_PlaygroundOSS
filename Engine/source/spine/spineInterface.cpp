@@ -137,10 +137,10 @@ namespace oxspine
 		int count = SpinCount;
 
 		if (isRegion)
-			uvs = regionAttachment->getUVs();
+			uvs = &regionAttachment->getUVs();
 		else
 		{
-			uvs = mesh->getUVs();
+			uvs = &mesh->getUVs();
 		}
 
 		for (size_t i = 0; i < count; i++)
@@ -150,20 +150,20 @@ namespace oxspine
 			if (i % 2 == 0)
 			{
 				*(SpineDes + vertextIndex + i) = *(SpineOr +i) + 500;
-				*(SpineUv + vertextIndex + i) = uOffset+ uvs[i]*uMax;
+				*(SpineUv + vertextIndex + i) = uOffset+ (*uvs)[i]*uMax;
 			}
 			else
 			{
 				*(SpineDes + vertextIndex + i) = -(*(SpineOr +i)) + 500;
-				*(SpineUv + vertextIndex + i) = vOffset + uvs[i] * vMax;
+				*(SpineUv + vertextIndex + i) = vOffset + (*uvs)[i] * vMax;
 			}
 
 			
 
 		}
 		vertextIndex += count;
-		uvs.clear();
-		//uvs =nullptr;
+		//uvs.clear();
+		uvs =nullptr;
 	}
 	void
 	SpineActor::shortCopy(unsigned short* SpineDes, unsigned short* SpineOr, int SpinCount)
