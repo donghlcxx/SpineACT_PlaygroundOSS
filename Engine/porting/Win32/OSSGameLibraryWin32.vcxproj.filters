@@ -2279,9 +2279,6 @@
     <ClCompile Include="..\..\source\HTTP\CKLBNetAPI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="spineInterface\spine.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\source\spine\Animation.cpp">
       <Filter>libs\spine</Filter>
     </ClCompile>

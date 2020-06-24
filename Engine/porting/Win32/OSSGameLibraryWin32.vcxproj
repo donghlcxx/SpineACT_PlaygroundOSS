@@ -63,10 +63,10 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <LibraryPath>D:\Temp\PlaygroundOSS-master\Engine\source\spine;$(LibraryPath);$(ProjectDir)openssl/lib;$(ProjectDir)Lame;$(ProjectDir)pure-Lua\;$(ProjectDir)LuaEdit\x86;$(ProjectDir)Debug;$(ProjectDir)directx</LibraryPath>
+    <LibraryPath>$(LibraryPath);$(ProjectDir)openssl/lib;$(ProjectDir)Lame;$(ProjectDir)pure-Lua\;$(ProjectDir)LuaEdit\x86;$(ProjectDir)Debug;..\..\source\spine;$(ProjectDir)directx</LibraryPath>
     <OutDir>$(SolutionDir)Output\$(Configuration)\</OutDir>
-    <IncludePath>D:\Temp\PlaygroundOSS-master\Engine\source\spine;$(VC_IncludePath);$(WindowsSDK_IncludePath)</IncludePath>
-    <ReferencePath>D:\Temp\PlaygroundOSS-master\Engine\source\spine;$(ReferencePath)</ReferencePath>
+    <IncludePath>..\..\source\spine;$(VC_IncludePath);$(WindowsSDK_IncludePath)</IncludePath>
+    <ReferencePath>$(ReferencePath)</ReferencePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug_CSharp|Win32'">
     <LinkIncremental>true</LinkIncremental>
